@@ -1,0 +1,5 @@
+experiencia; nombre; precio; descripcion; localizacion
+Experiencia cultural;cultura;20.0;una experiencia cultural;Tenerife
+Experiencia deportiva;deportivas;15.6;una experiencia deportiva;Gomera
+Experiencia ludica;ludicas;23.5;una experiencia ludica;Fuerteventura
+Experiencia gastronomica;gastronomicas;18.9;una experiencia gastronomica;Lanzarote
